@@ -1,8 +1,5 @@
 # University-Management-System
 A MySQL-based system for managing students, courses, instructors, and enrollments with SQL features like triggers, views, and stored procedures.
-# University Management System
-
-A MySQL-based project for managing students, instructors, courses, and enrollments.
 
 ## Features
 - Database Schema Design
